@@ -1,5 +1,3 @@
-<img align="right" height="530em"
-src="https://raw.githubusercontent.com/gist/netoMendes21/d5a5e6ece299967c1f6b6236763009fb/raw/174c98cd09a729fdafc17bdd4de0cbc4cf63d3f2/githubcardgreen.svg"/>
 
 <h1 align="left">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm José Luiz</h1>
 
