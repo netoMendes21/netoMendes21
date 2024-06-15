@@ -46,7 +46,7 @@
 ##  &nbsp; Social Links
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joseluizneto/" target="_blank">
+  <a href="https://www.linkedin.com/in/joseluizneto/" target="blank">
     <img align="center" src="https://img.shields.io./badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=007FFF" alt="linkedin"/>
   </a>
   <a href="mailto:netomendessurf@gmail.com" target="_blank">
