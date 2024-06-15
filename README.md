@@ -7,7 +7,7 @@
 <br>
 
 <details>
-  <summary> About me </summary>
+  <summary>🧑🏽 About me </summary>
   
 - I am currently a full stack web development student
  
