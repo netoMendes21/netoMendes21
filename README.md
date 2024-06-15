@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/netoMendes21/netoMendes21/assets/133919788/d8bdf880-e0d8-47b6-9a1c-bdf1976a330b"/>
+<img width=100% bottom=50px src="https://github.com/netoMendes21/netoMendes21/assets/133919788/da20cf6b-0f7f-4590-85d9-96fd4e14c865"/>
 
 <br><br>
 
@@ -52,5 +52,7 @@
   <a href="https://www.instagram.com/netomendes.21/" target="_blank">
   </a>
 </p>
+
+<img width=100% bottom=50px src="https://github.com/netoMendes21/netoMendes21/assets/133919788/da20cf6b-0f7f-4590-85d9-96fd4e14c865"/>
 
 
