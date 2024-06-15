@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-luiz-mendes-11550a251/" target="_blank">
     <img align="center" src="https://img.shields.io./badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=007FFF" alt="linkedin"/>
   </a>
-  <a href="mailto:cmp.1a.netomendessurf@gmail.com"" target="_blank">
+  <a href="mailto:netomendessurf@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io./badge/-Gmail-05122A?style=flat&logo=gmail" alt="Gmail"/>
   </a>
 </p>
