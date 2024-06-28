@@ -5,16 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=3000&color=07BB15AE&center=true&vCenter=true&random=false&width=900&lines=Hello!+My+name+is+Jos%C3%A9+Luiz;I'm+27+years+old;I'm+a+full-stack+web+developer;Welcome)](https://git.io/typing-svg)
 
 <br>
-
-<details>
-  <summary>🧑🏽 About me </summary>
   
 - I am currently a full stack web development student
  
 - looking for new knowledge and experience in software development
 </details>
 
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netoMendes21&color=green&style=for-the-badge" alt="Profile views"/> </p>
 
