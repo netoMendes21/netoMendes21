@@ -24,11 +24,11 @@
 ![Node.js](https://img.shields.io./badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io./badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io./badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=007FFF)&nbsp;
+![Express.js](https://img.shields.io./badge/-Express-05122A?style=for-the-badge&logo=express)&nbsp;
 ![React](https://img.shields.io./badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Git](https://img.shields.io./badge/-Git-05122A?style=for-the-badge&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io./badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![MarkDown](https://img.shields.io./badge/-MarkDown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io./badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007FFF)&nbsp;
 ![MySQL](https://img.shields.io./badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io./badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 
