@@ -43,14 +43,8 @@
 
 ##  &nbsp; Social Links
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joseluizneto/" target="_blank">
-    <img align="center" src="https://img.shields.io./badge/-Linkedin-05122A?style=for-the-badge&logo=linkedin&logoColor=0e76a8" alt="linkedin"/>
-  </a>
-  <a href="mailto:netomendessurf@gmail.com" target="_blank">
-        <img align="center" src="https://img.shields.io./badge/-Gmail-05122A?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
-</p>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/SEUUSERNAME/)
+ [![E-mail](https://img.shields.io/badge/-Email-05122A?style=for-the-badge&logo=mailboxdotorg&logoColor=007BFF)](mailto:jlmendesneto@hotmail.com) 
 
 <br>
 
