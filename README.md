@@ -20,7 +20,6 @@
 
 ![JavaScript](https://img.shields.io./badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io./badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
-![Python](https://img.shields.io./badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Node.js](https://img.shields.io./badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io./badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io./badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=007FFF)&nbsp;
@@ -29,6 +28,8 @@
 ![Git](https://img.shields.io./badge/-Git-05122A?style=for-the-badge&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io./badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![MarkDown](https://img.shields.io./badge/-MarkDown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![.NET](https://img.shields.io./badge/-.NET-05122A?style=for-the-badge&logo=.net)&nbsp;
+![C#](https://img.shields.io./badge/-C%23-05122A?style=for-the-badge&logo=c-sharp)&nbsp;
 ![MySQL](https://img.shields.io./badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io./badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 
