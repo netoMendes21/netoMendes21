@@ -2,11 +2,11 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=3000&color=07BB15AE&center=true&vCenter=true&random=false&width=900&lines=Hello!+My+name+is+Jos%C3%A9+Luiz;I'm+27+years+old;I'm+a+full-stack+web+developer;Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=3000&color=07BB15AE&center=true&vCenter=true&random=false&width=900&lines=Hello!+My+name+is+Jos%C3%A9+Luiz;I'm+28+years+old;I'm+a+full-stack+web+developer;Welcome)](https://git.io/typing-svg)
 
 <br>
   
-- I am currently a full stack web development student
+- I am currently a Systems Analysis and Development student
  
 - looking for new knowledge and experience in software development
 </details>
